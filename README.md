@@ -7,7 +7,6 @@ Components needed
     Quantity	Component 
 
         1           Arduino Uno R3
-
         1           250 kΩ, Potentiometer
     
 
